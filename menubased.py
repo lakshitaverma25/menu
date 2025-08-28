@@ -66,7 +66,7 @@ st.markdown("""
     }
     
     .sidebar .sidebar-content {
-        background: #1a1a1a;
+        background: #1aa1a1a;
     }
     
     .metric-card {
